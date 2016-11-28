@@ -1,0 +1,17 @@
+6-GET
+7-POST
+7-Sessions
+8-Cookies
+9-Files
+10-Email
+11-MySQL
+12-PDO
+13-SqlLite
+14-NoSQL
+15-Login
+16-Hash
+17-Crypography
+18-OOP
+19-MVC
+20-Testing
+21-Ajax
